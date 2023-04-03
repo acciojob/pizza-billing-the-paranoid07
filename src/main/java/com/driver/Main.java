@@ -13,6 +13,7 @@ public class Main {
     p.addExtraCheese();
     p.addExtraToppings();
     p.addTakeaway();
+    //System.out.println(p.getPrice());
     System.out.println(p.getBill());
   }
 }
